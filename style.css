@@ -1409,8 +1409,8 @@
      width: 40%;
      padding-top: 90px;
      padding-bottom: 90px;
-     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.57)), color-stop(25%, transparent)), url("https://res.cloudinary.com/strtcrft/image/upload/v1630596348/habitalk/6130ccbd0813056d71896502_kara-eads-L7EwHkq1B2s-unsplash.jpg");
-     background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.57), transparent 25%), url("https://res.cloudinary.com/strtcrft/image/upload/v1630596348/habitalk/6130ccbd0813056d71896502_kara-eads-L7EwHkq1B2s-unsplash.jpg");
+     background-image: -webkit-gradient(linear, left top, left bottom, from(rgba(0, 0, 0, 0.57)), color-stop(25%, transparent)), url("https://res.cloudinary.com/strtcrft/image/upload/c_scale,q_auto:low,w_800/v1630596346/habitalk/6130ccbd0813056d71896502_kara-eads-L7EwHkq1B2s-unsplash_2.jpg");
+     background-image: linear-gradient(180deg, rgba(0, 0, 0, 0.57), transparent 25%), url("https://res.cloudinary.com/strtcrft/image/upload/c_scale,q_auto:low,w_800/v1630596346/habitalk/6130ccbd0813056d71896502_kara-eads-L7EwHkq1B2s-unsplash_2.jpg");
      background-position: 0px 0px, 50% 50%;
      background-size: auto, cover;
      background-repeat: repeat, no-repeat;
@@ -1634,7 +1634,7 @@
      -ms-flex-item-align: center;
      -ms-grid-row-align: center;
      align-self: center;
-     background-image: url("https://res.cloudinary.com/strtcrft/image/upload/v1630596348/habitalk/6130912757cea6f06bbe5d43_612e5be8ab6801443a435b9d_Hero-image.jpg");
+     background-image: url("https://res.cloudinary.com/strtcrft/image/upload/c_scale,q_auto:low,w_840/v1630596345/habitalk/6130912757cea6f06bbe5d43_612e5be8ab6801443a435b9d_Hero-image.jpg");
      background-position: 50% 50%;
      background-size: cover;
      background-repeat: no-repeat;
